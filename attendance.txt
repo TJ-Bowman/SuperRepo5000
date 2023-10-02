@@ -4,7 +4,7 @@
 [X] Burkhalter
 [] Butler
 [] Crenshaw
-[] Dhami
+[x] Dhami
 [] Erbelding
 [] Folds
 [] Frederick
