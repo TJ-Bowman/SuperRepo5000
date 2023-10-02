@@ -13,7 +13,7 @@
 [] Jahn
 [] Jose
 [] Joyce
-[X] Kelley
+[] Kelley
 [] Kie
 [] Mahan
 [] Marquez
@@ -21,7 +21,7 @@
 [] Nalepa
 [] Niraula
 [] Norman
-[] Rajkarnikar
+[X] Rajkarnikar
 [] Regmi
 [] Reich
 [] Roberts
