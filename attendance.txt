@@ -19,7 +19,7 @@
 [] Marquez
 [] Meister
 [] Nalepa
-[] Niraula
+[x] Niraula
 [] Norman
 [] Rajkarnikar
 [] Regmi
