@@ -14,7 +14,7 @@
 [] Jose
 [] Joyce
 [X] Kelley
-[] Kie
+[x] Kie
 [] Mahan
 [] Marquez
 [] Meister
