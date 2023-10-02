@@ -23,7 +23,7 @@
 [] Norman
 [] Rajkarnikar
 [] Regmi
-[] Reich
+[X] Reich
 [] Roberts
 [] Robertson
 [] Thapa
