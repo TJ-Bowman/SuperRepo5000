@@ -11,7 +11,7 @@
 [] Gilley
 [] Gremillion
 [] Jahn
-[] Jose
+[X] Jose
 [] Joyce
 [] Kelley
 [] Kie
