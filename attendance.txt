@@ -1,4 +1,4 @@
-[] Ali
+[X] Ali
 [] Allen
 [] Brunning
 [X] Burkhalter
