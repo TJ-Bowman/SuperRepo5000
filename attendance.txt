@@ -8,7 +8,7 @@
 [] Erbelding
 [] Folds
 [] Frederick
-[] Gilley
+[X] Gilley
 [] Gremillion
 [X] Jahn
 [] Jose
