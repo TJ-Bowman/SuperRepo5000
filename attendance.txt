@@ -28,5 +28,5 @@ X Roberts
 [] Robertson
 [] Thapa
 [] Thomas
-[] Wood
+[x] Wood
 [] Tamang
