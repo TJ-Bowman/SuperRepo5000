@@ -22,7 +22,7 @@
 [] Niraula
 [] Norman
 [] Rajkarnikar
-[] Regmi
+[x] Regmi
 [] Reich
 [] Roberts
 [] Robertson
