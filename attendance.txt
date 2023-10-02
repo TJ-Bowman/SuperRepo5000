@@ -25,7 +25,7 @@
 [] Regmi
 [] Reich
 X Roberts
-[] Robertson
+[x] Robertson
 [] Thapa
 [] Thomas
 [] Wood
