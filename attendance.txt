@@ -20,7 +20,7 @@
 [X] Meister
 [X] Nalepa
 [] Niraula
-[] Norman
+[X] Norman
 [] Rajkarnikar
 [] Regmi
 [] Reich
