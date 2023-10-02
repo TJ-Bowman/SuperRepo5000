@@ -2,7 +2,7 @@
 [] Allen
 [] Brunning
 [] Burkhalter
-[] Butler
+[X] Butler
 [] Crenshaw
 [] Dhami
 [] Erbelding
