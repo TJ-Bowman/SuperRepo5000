@@ -16,7 +16,7 @@
 [] Kelley
 [] Kie
 [] Mahan
-[] Marquez
+[X] Marquez
 [] Meister
 [] Nalepa
 [] Niraula
