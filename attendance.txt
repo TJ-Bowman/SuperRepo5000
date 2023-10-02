@@ -3,7 +3,7 @@
 [] Brunning
 [X] Burkhalter
 [] Butler
-[] Crenshaw
+[X] Crenshaw
 [] Dhami
 [] Erbelding
 [] Folds
