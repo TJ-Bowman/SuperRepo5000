@@ -1,7 +1,7 @@
 [] Ali
 [] Allen
 [] Brunning
-[] Burkhalter
+[X] Burkhalter
 [] Butler
 [] Crenshaw
 [] Dhami
@@ -10,21 +10,21 @@
 [] Frederick
 [] Gilley
 [] Gremillion
-[] Jahn
+[X] Jahn
 [] Jose
 [] Joyce
-[] Kelley
+[X] Kelley
 [] Kie
 [X] Mahan :]  🐉🐉🐉🐉🐉🐉🐉
 [] Marquez
 [] Meister
-[] Nalepa
+[X] Nalepa
 [] Niraula
 [] Norman
 [] Rajkarnikar
 [] Regmi
 [] Reich
-[] Roberts
+X Roberts
 [] Robertson
 [] Thapa
 [] Thomas
