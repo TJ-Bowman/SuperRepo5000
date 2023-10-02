@@ -26,7 +26,7 @@
 [] Reich
 X Roberts
 [] Robertson
-[] Thapa
+[X] Thapa
 [] Thomas
 [] Wood
 [] Tamang
