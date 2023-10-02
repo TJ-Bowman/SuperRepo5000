@@ -1,8 +1,8 @@
 [] Ali
 [] Allen
 [] Brunning
-[X] Burkhalter
-[] Butler
+[] Burkhalter
+[X] Butler
 [] Crenshaw
 [] Dhami
 [] Erbelding
