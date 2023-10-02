@@ -21,7 +21,7 @@
 [X] Nalepa
 [] Niraula
 [] Norman
-[] Rajkarnikar
+[x] Rajkarnikar
 [] Regmi
 [] Reich
 X Roberts
