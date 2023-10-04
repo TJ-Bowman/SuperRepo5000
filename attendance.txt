@@ -7,7 +7,7 @@
 [] Dhami
 [] Erbelding
 [] Folds
-[] Frederick
+[✔] Frederick
 [] Gilley
 [] Gremillion
 [X] Jahn
